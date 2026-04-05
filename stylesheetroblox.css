@@ -1,7 +1,7 @@
 /* GENERAL PAGE STYLING */
 body {
   font-family: 'Fredoka', sans-serif;
-  background-image: url('Minecraft Background (For Minecraft Page).png');
+  background-image: url('GD\ Background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -74,7 +74,7 @@ img {
       margin: 0;
       padding: 0;
       font-family: 'Fredoka', sans-serif;
-      background-image: url('Roblox Background.png');
+      background-image: url('GD Background.png');
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
